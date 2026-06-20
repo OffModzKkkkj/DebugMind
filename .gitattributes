@@ -1,0 +1,3 @@
+*.tex linguist-documentation=true
+*.log linguist-documentation=true
+*.bib linguist-documentation=true
